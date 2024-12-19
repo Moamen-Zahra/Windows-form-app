@@ -1,0 +1,12 @@
+C:\Users\Mumen\source\repos\p.form1\p.form1\bin\Debug\p.form1.exe.config
+C:\Users\Mumen\source\repos\p.form1\p.form1\bin\Debug\p.form1.exe
+C:\Users\Mumen\source\repos\p.form1\p.form1\bin\Debug\p.form1.pdb
+C:\Users\Mumen\source\repos\p.form1\p.form1\obj\Debug\p.form1.csproj.AssemblyReference.cache
+C:\Users\Mumen\source\repos\p.form1\p.form1\obj\Debug\p.form1.Form1.resources
+C:\Users\Mumen\source\repos\p.form1\p.form1\obj\Debug\p.form1.Properties.Resources.resources
+C:\Users\Mumen\source\repos\p.form1\p.form1\obj\Debug\p.form1.csproj.GenerateResource.cache
+C:\Users\Mumen\source\repos\p.form1\p.form1\obj\Debug\p.form1.csproj.CoreCompileInputs.cache
+C:\Users\Mumen\source\repos\p.form1\p.form1\obj\Debug\p.form1.exe
+C:\Users\Mumen\source\repos\p.form1\p.form1\obj\Debug\p.form1.pdb
+C:\Users\Mumen\source\repos\p.form1\p.form1\obj\Debug\p.form1.Form2.resources
+C:\Users\Mumen\source\repos\p.form1\p.form1\obj\Debug\p.form1.Form3.resources
